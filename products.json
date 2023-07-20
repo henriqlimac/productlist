@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "image": "./wristwatch.jpg",
+        "title": "WRISTWATCH",
+        "description": "Lorem ipsum dolor sit a met",
+        "price": 39
+    },
+    {
+        "id": 2,
+        "image": "./allstar.jpg",
+        "title": "ALLSTAR",
+        "description": "Lorem ipsum dolor sit a met",
+        "price": 59
+    },
+    {
+        "id": 3,
+        "image": "./glasses.jpg",
+        "title": "SUNGLASSES",
+        "description": "Lorem ipsum dolor sit a met",
+        "price": 29
+    }
+]
